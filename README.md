@@ -15,4 +15,6 @@ Timeless health care supports improve maternal health outcomes by addressing WHO
 3. Activate the virtual environment and run pip install -r requirements.txt
 4. run app with python manage.py runserver.
 
--
+## how to run the recommender algorithm file
+
+1. For execution install the python-jupter extension in vs code. or install all required packages in dependently. 
